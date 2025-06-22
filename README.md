@@ -1,5 +1,5 @@
 
-# I Ching Mobile App – Legal Policies
+# I Ching Coin Method Mobile App – Legal Policies
 
 This repository contains the official legal documents for the **I Ching** mobile application, including:
 
